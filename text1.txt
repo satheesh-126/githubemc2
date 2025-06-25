@@ -1,0 +1,17 @@
+hi
+
+GIT HUB COMMANDS
+
+1.git clone
+2.cd gitname
+3.git status
+4.git init
+5.git add
+6.git commit
+7.git push origin "branch name"
+8.git pull
+9.git add .
+10.git remote add origin
+11.git branch
+12.git branch -a
+13.git checkout
